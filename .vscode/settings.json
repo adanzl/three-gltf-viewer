@@ -1,0 +1,21 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "dist": true,
+        "node_modules": true,
+        ".cache": true
+    },
+    "cSpell.words": [
+        "Equirectangular",
+        "Mipmapper",
+        "RGBE",
+        "assetgenerator",
+        "droperror",
+        "dropstart",
+        "hideable",
+        "metalness",
+        "pmrem",
+        "rendererstats",
+        "uncache"
+    ]
+}
